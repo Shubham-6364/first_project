@@ -5,3 +5,5 @@
 #
 #Now today is 21 march I am using git in linux for revision of commands
 #this is the first line for check git status
+#
+#this is new feature1 added in this file 
